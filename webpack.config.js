@@ -16,4 +16,8 @@ module.exports = {
       }
     ]
   },
+  devServer: {
+  	inline: true,
+  	port: 3333
+  }
 };
